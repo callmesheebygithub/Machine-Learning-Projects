@@ -1,4 +1,0 @@
-* test-auto
-
-* .jpg binary
-* .png binary
